@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/         # Bloquear páginas privadas o administrativas
+Disallow: /tmp/             # Bloquear carpetas temporales
+Allow: /
+
+Sitemap: https://www.pytronicca.com/sitemap.xml
